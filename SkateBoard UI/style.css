@@ -1,0 +1,33 @@
+.lightsection{
+    text-align: center;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+div.myjumbo{
+    margin-top:4rem;
+
+}
+div.darksection{
+    margin-top: 45px;
+    padding: 20px;
+    background-color: #eceeef;
+}
+div.skateimg{
+    width:50%;
+    padding: 6rem;
+}
+.Mybutton{
+    padding-top: 1.5rem;
+}
+
+.modalimg{
+    height: 8rem;
+}
+.myicons{
+    padding-top: 15px;
+}
+.myicons img{
+    width: 32px;
+    height: 48px;
+    margin-left:10px ;
+}
